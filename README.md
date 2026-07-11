@@ -4,7 +4,7 @@
 
 # Hi, I'm Anas Mirza 👋
 
-### AI Engineer • Full Stack Developer • ECE Undergraduate
+### AI Engineer • Full Stack Developer 
 
 <p>
 Building production-ready AI systems, LLM applications, and scalable backend infrastructure.
